@@ -2,6 +2,7 @@
 Constructor based Word Guess Cli Game
 
 Task
+
 Using two objects, Letter and Word, make a Hangman-style word guess game. When invoked from command line, pick a random word, display placeholders for the letters. Prompt the player for letter guesses. If correct, display the word with placeholders filled in. If incorrect, reduce the number of incorrect guesses remaining.
 
 Concepts and technologies
