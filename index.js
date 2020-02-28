@@ -110,7 +110,7 @@ function ask() {
                 console.log('guesses remaining:', guessesLeft);
             }
 
-        } else {
+        } else { 
             console.log(targetWord, 'is correct!');
             // console.log(answers.playAgain);
         }
